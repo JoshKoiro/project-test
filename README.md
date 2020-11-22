@@ -6,3 +6,4 @@ This is the first feature that our software is able to do for it's users.
 
 ## Feature 2
 This is another feature that has been added in the latest release of the software.
+We also added some interesting features in 2.2. This will help in fluid reading of data.
