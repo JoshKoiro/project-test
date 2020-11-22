@@ -1,0 +1,7 @@
+This is a new feature.
+
+This linkes back to another file.
+
+[feature1.1.txt]
+
+Now this functionality should be close to complete.
