@@ -1,0 +1,3 @@
+This is more functionality for [feature2.txt].
+
+We added this so that we could continue in the interesting things this app can do.
