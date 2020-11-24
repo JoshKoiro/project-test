@@ -12,3 +12,6 @@ This will be very helpful for users
 
 ## Feature 3
 This is some more features that we have created. It will integrate nicely with outside sources.
+
+## Quick Add Feature
+This is a quick add feature that was created as well
