@@ -5,3 +5,5 @@ This linkes back to another file.
 [feature1.1.txt]
 
 Now this functionality should be close to complete.
+
+This is some new code that had to be written in order to make this work.
