@@ -1,2 +1,6 @@
 This is a new feature that is being created here.
 This will include some other interesting things.
+
+This will be some things that are added.
+
+This will make it work with file 3.1 and 3.0.
