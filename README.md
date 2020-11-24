@@ -11,4 +11,4 @@ We also added some interesting features in 2.2. This will help in fluid reading 
 This will be very helpful for users
 
 ## Feature 3
-Coming soon!
+This is some more features that we have created. It will integrate nicely with outside sources.
